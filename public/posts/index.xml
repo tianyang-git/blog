@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - 我的全新 Hugo 网站</title>
-        <link>https://blog.csdiy.top/posts/</link>
-        <description>All Posts | 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Oct 2023 18:08:25 &#43;0800</lastBuildDate><atom:link href="https://blog.csdiy.top/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>All Posts - Blog</title>
+        <link>https://blog.bytemvp.com/posts/</link>
+        <description>All Posts | Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Oct 2023 18:08:25 &#43;0800</lastBuildDate><atom:link href="https://blog.bytemvp.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Hello_world</title>
-    <link>https://blog.csdiy.top/posts/hello_world/</link>
+    <link>https://blog.bytemvp.com/posts/hello_world/</link>
     <pubDate>Sat, 14 Oct 2023 18:08:25 &#43;0800</pubDate>
     <author>tianyang</author>
-    <guid>https://blog.csdiy.top/posts/hello_world/</guid>
+    <guid>https://blog.bytemvp.com/posts/hello_world/</guid>
     <description><![CDATA[Hello World
 Powered by Hugo | Theme - LoveIt]]></description>
 </item>
