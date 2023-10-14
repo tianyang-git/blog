@@ -8,12 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Oct 2023 12:37:57 +0800</lastBuildDate><atom:link href="https://blog.csdiy.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hello_world</title>
+      <link>https://blog.csdiy.top/hello_world/</link>
+      <pubDate>Sat, 14 Oct 2023 16:25:44 +0800</pubDate>
+      
+      <guid>https://blog.csdiy.top/hello_world/</guid>
+      <description>Hello World</description>
+    </item>
+    
+    <item>
       <title>First</title>
       <link>https://blog.csdiy.top/post/first/</link>
       <pubDate>Sat, 14 Oct 2023 12:37:57 +0800</pubDate>
       
       <guid>https://blog.csdiy.top/post/first/</guid>
-      <description>Hello Hugo aaa bbb ccc </description>
+      <description>Hello Hugo 111aaa 222bbb 333ccc </description>
     </item>
     
     <item>
