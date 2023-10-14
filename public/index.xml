@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://tiangany-git.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Blog</title>
+    <link>https://tiangany-git.github.io/blog/</link>
+    <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Oct 2023 12:37:57 +0800</lastBuildDate><atom:link href="https://tiangany-git.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 12:37:57 +0800</lastBuildDate><atom:link href="https://tiangany-git.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://tiangany-git.github.io/post/first/</link>
+      <link>https://tiangany-git.github.io/blog/post/first/</link>
       <pubDate>Sat, 14 Oct 2023 12:37:57 +0800</pubDate>
       
-      <guid>https://tiangany-git.github.io/post/first/</guid>
+      <guid>https://tiangany-git.github.io/blog/post/first/</guid>
       <description>Hello Hugo aaa bbb ccc </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://tiangany-git.github.io/about/</link>
+      <link>https://tiangany-git.github.io/blog/about/</link>
       <pubDate>Sat, 14 Oct 2023 12:36:21 +0800</pubDate>
       
-      <guid>https://tiangany-git.github.io/about/</guid>
+      <guid>https://tiangany-git.github.io/blog/about/</guid>
       <description></description>
     </item>
     
