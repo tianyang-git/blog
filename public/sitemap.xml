@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.csdiy.top/categories/</loc>
+    <loc>https://tiangany-git.github.io/post/first/</loc>
+    <lastmod>2023-10-14T12:37:57+08:00</lastmod>
   </url><url>
-    <loc>http://blog.csdiy.top/</loc>
+    <loc>https://tiangany-git.github.io/</loc>
+    <lastmod>2023-10-14T12:37:57+08:00</lastmod>
   </url><url>
-    <loc>http://blog.csdiy.top/tags/</loc>
+    <loc>https://tiangany-git.github.io/post/</loc>
+    <lastmod>2023-10-14T12:37:57+08:00</lastmod>
+  </url><url>
+    <loc>https://tiangany-git.github.io/about/</loc>
+    <lastmod>2023-10-14T12:36:21+08:00</lastmod>
+  </url><url>
+    <loc>https://tiangany-git.github.io/categories/</loc>
+  </url><url>
+    <loc>https://tiangany-git.github.io/tags/</loc>
   </url>
 </urlset>
