@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>https://tiangany-git.github.io/blog/</link>
+    <link>https://tianyang-git.github.io/blog/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Oct 2023 12:37:57 +0800</lastBuildDate><atom:link href="https://tiangany-git.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 12:37:57 +0800</lastBuildDate><atom:link href="https://tianyang-git.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://tiangany-git.github.io/blog/post/first/</link>
+      <link>https://tianyang-git.github.io/blog/post/first/</link>
       <pubDate>Sat, 14 Oct 2023 12:37:57 +0800</pubDate>
       
-      <guid>https://tiangany-git.github.io/blog/post/first/</guid>
+      <guid>https://tianyang-git.github.io/blog/post/first/</guid>
       <description>Hello Hugo aaa bbb ccc </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://tiangany-git.github.io/blog/about/</link>
+      <link>https://tianyang-git.github.io/blog/about/</link>
       <pubDate>Sat, 14 Oct 2023 12:36:21 +0800</pubDate>
       
-      <guid>https://tiangany-git.github.io/blog/about/</guid>
+      <guid>https://tianyang-git.github.io/blog/about/</guid>
       <description></description>
     </item>
     
